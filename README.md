@@ -1,4 +1,4 @@
-# Blazor.Bootstrap.Modal
+# BlazorBootstrap.Modal
 Bootstrap 4 modal dialog for Asp.NET Blazor
 
 [![Build Status](https://berserkerdotnet.visualstudio.com/Blazor.Bootstrap.Modal/_apis/build/status/BerserkerDotNet.Blazor.Bootstrap.Modal?branchName=master)](https://berserkerdotnet.visualstudio.com/Blazor.Bootstrap.Modal/_build/latest?definitionId=6&branchName=master)
