@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29006.145
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Blazor.Bootstrap.Modal", "src\Blazor.Bootstrap.Modal\Blazor.Bootstrap.Modal.csproj", "{74AFE668-8DF2-42D7-A0D2-2D7FD224AFF2}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{10651A1B-909F-4926-B475-F60EB454BF94}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+		version.json = version.json
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Blazor.Bootstrap.Modal.Samples", "src\Blazor.Bootstrap.Modal.Samples\Blazor.Bootstrap.Modal.Samples.csproj", "{2B4BA1A3-91D0-4527-9EAE-34B2A2D28110}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{74AFE668-8DF2-42D7-A0D2-2D7FD224AFF2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74AFE668-8DF2-42D7-A0D2-2D7FD224AFF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74AFE668-8DF2-42D7-A0D2-2D7FD224AFF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74AFE668-8DF2-42D7-A0D2-2D7FD224AFF2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2B4BA1A3-91D0-4527-9EAE-34B2A2D28110}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B4BA1A3-91D0-4527-9EAE-34B2A2D28110}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B4BA1A3-91D0-4527-9EAE-34B2A2D28110}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B4BA1A3-91D0-4527-9EAE-34B2A2D28110}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9082F03E-CD23-4160-9776-19EED08EE9AF}
+	EndGlobalSection
+EndGlobal

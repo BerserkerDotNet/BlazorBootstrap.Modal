@@ -1,0 +1,7 @@
+﻿@page "/"
+@inject IModal Modal
+
+<h1>Blazor Bootstrap modal samples</h1>
+
+<button class="btn btn-info" @onclick="@(() => Modal.Show<SimpleModal>("Simple modal", ModalParameter.Get("SampleParameter", "This is a parameter")))">Simple modal</button>
+<button class="btn btn-info" @onclick="@(() => Modal.Show<FormModal>("Login modal"))">Form modal</button>
