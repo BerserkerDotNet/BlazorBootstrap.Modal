@@ -1,7 +1,7 @@
-﻿using Blazor.Bootstrap.Modal.Services;
+﻿using BlazorBootstrap.Modal.Services;
 using Microsoft.Extensions.DependencyInjection;
 
-namespace Blazor.Bootstrap.Modal
+namespace BlazorBootstrap.Modal
 {
     public static class ServiceCollectionExtensions
     {

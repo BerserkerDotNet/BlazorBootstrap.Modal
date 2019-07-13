@@ -1,8 +1,8 @@
-﻿using Blazor.Bootstrap.Modal.Services;
+﻿using BlazorBootstrap.Modal.Services;
 using Microsoft.AspNetCore.Components;
 using System;
 
-namespace Blazor.Bootstrap.Modal.UI
+namespace BlazorBootstrap.Modal.UI
 {
     public class BootstrapModalBase : ComponentBase, IDisposable
     {

@@ -1,6 +1,6 @@
 ﻿using Microsoft.AspNetCore.Blazor.Hosting;
 
-namespace Blazor.Bootstrap.Modal.Samples
+namespace BlazorBootstrap.Modal.Samples
 {
     public class Program
     {

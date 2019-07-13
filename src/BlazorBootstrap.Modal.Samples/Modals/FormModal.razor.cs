@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace Blazor.Bootstrap.Modal.Samples.Modals
+namespace BlazorBootstrap.Modal.Samples.Modals
 {
     public class LoginModel
     {

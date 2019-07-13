@@ -9,13 +9,13 @@ Bootstrap 4, usually included with default Blazor template.
 
 ## Setup
 
-1. Install Blazor.Bootstrap.Modal from NuGet by PowerShell:
+1. Install BlazorBootstrap.Modal from NuGet by PowerShell:
     ```powershell
-    Install-Package Blazor.Bootstrap.Modal
+    Install-Package BlazorBootstrap.Modal
     ```
     or via `dotnet` CLI
     ```cmd
-    dotnet add package Blazor.Bootstrap.Modal
+    dotnet add package BlazorBootstrap.Modal
     ```
 1. Register services in `Startup.cs`
     ```csharp
@@ -46,4 +46,4 @@ Bootstrap 4, usually included with default Blazor template.
     ```
     where the first parameter is title of the modal window and second is a list of parameters to pass to the modal class.
 
-    For more example refer to the `Blazor.Bootstrap.Modal.Samples` project.
+    For more example refer to the `BlazorBootstrap.Modal.Samples` project.

@@ -1,4 +1,4 @@
-﻿namespace Blazor.Bootstrap.Modal.Services
+﻿namespace BlazorBootstrap.Modal.Services
 {
     public class ModalParameter
     {

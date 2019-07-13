@@ -11,16 +11,16 @@
     <Authors>Andrii Snihyr</Authors>
     <Copyright>Copyright 2019 (c) Andrii Snihyr. All rights reserved.</Copyright>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
-    <PackageProjectUrl>https://github.com/BerserkerDotNet/Blazor.Bootstrap.Modal</PackageProjectUrl>
-    <PackageIconUrl>https://github.com/BerserkerDotNet/Blazor.Bootstrap.Modal/blob/master/assets/logo.png</PackageIconUrl>
-    <RepositoryUrl>https://github.com/BerserkerDotNet/Blazor.Bootstrap.Modal</RepositoryUrl>
+    <PackageProjectUrl>https://github.com/BerserkerDotNet/BlazorBootstrap.Modal</PackageProjectUrl>
+    <PackageIconUrl>https://github.com/BerserkerDotNet/BlazorBootstrap.Modal/blob/master/assets/logo.png</PackageIconUrl>
+    <RepositoryUrl>https://github.com/BerserkerDotNet/BlazorBootstrap.Modal</RepositoryUrl>
     <RepositoryType>git</RepositoryType>
     <PackageTags>Blazor Razor Components Modal Dialog Bootstrap Bootstrap4</PackageTags>
     <Description>A Bootstrap 4 modal dialog for Asp.NET Blazor.</Description>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     <SignAssembly>true</SignAssembly>
     <DelaySign>false</DelaySign>
-    <AssemblyOriginatorKeyFile>blazor.bootstrap.modal.snk</AssemblyOriginatorKeyFile>
+    <AssemblyOriginatorKeyFile>blazorbootstrap.modal.snk</AssemblyOriginatorKeyFile>
   </PropertyGroup>
 
   <ItemGroup>

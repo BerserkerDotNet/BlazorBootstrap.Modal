@@ -2,7 +2,7 @@
 using System.Linq;
 using Microsoft.AspNetCore.Components;
 
-namespace Blazor.Bootstrap.Modal.Services
+namespace BlazorBootstrap.Modal.Services
 {
     public class ModalService : IModal
     {

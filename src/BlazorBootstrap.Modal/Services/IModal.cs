@@ -1,7 +1,7 @@
 ﻿using Microsoft.AspNetCore.Components;
 using System;
 
-namespace Blazor.Bootstrap.Modal.Services
+namespace BlazorBootstrap.Modal.Services
 {
     public interface IModal
     {
