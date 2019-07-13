@@ -17,7 +17,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Blazor.Bootstrap.Modal\BlazorBootstrap.Modal.csproj" />
+    <ProjectReference Include="..\BlazorBootstrap.Modal\BlazorBootstrap.Modal.csproj" />
   </ItemGroup>
 
 </Project>
