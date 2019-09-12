@@ -20,7 +20,7 @@ namespace BlazorBootstrap.Modal.UI
             ModalService.OnClose -= CloseModal;
         }
 
-        protected override void OnInit()
+        protected override void OnInitialized()
         {
             ModalService.OnShow += ShowModal;
             ModalService.OnClose += CloseModal;

@@ -37,9 +37,10 @@ else
 @functions {
     WeatherForecast[] forecasts;
 
-    protected override async Task OnInitAsync()
+    protected override async Task OnInitializedAsync()
     {
-        forecasts = await Http.GetJsonAsync<WeatherForecast[]>("sample-data/weather.json");
+        var forecastsString = await Http.GetStringAsync("sample-data/weather.json");
+        forecasts = JsonConvert.DeserializeObject<WeatherForecast[]>(forecastsString);
     }
 
     class WeatherForecast
